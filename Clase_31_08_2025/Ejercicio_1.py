@@ -15,9 +15,10 @@ def serie_b(n):
         siguiente = resultado[i-1] + resultado[i-2]
         resultado.append(siguiente)
     return resultado
-        
-    
+
+   
 n = int(input("Ingresemos el n: "))
 vector = serie_a(n)
 print("Serie A: ",vector)
 print("Seria B: ",serie_b(n))
+

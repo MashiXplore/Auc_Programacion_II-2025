@@ -1,0 +1,13 @@
+1111,1111,Sinka,Enrique,M,66
+5456,4856325,Mamani,José,M,90
+4787,5665845,Rojas,Isabela,F,87
+7879,10223658,Huanca,Flora ,F,30
+5456,4856325,Mamani,José,M,90
+4787,5665845,Rojas,Isabela,F,87
+7879,10223658,Huanca,Flora ,F,30
+5456,4856325,Mamani,José,M,90
+4787,5665845,Rojas,Isabela,F,87
+7879,10223658,Huanca,Flora ,F,30
+5456,4856325,Mamani,José,M,90
+4787,5665845,Rojas,Isabela,F,87
+7879,10223658,Huanca,Flora ,F,30
